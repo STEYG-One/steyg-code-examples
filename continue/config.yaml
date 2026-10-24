@@ -1,0 +1,8 @@
+models:
+  - name: STEYG Code
+    provider: openai
+    model: MODEL_ID
+    apiBase: https://steyg.one/api/v1
+    apiKey: ${{ secrets.STEYG_CODE_API_KEY }}
+    capabilities: [tool_use]
+    roles: [chat, edit, apply]

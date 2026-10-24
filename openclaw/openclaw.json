@@ -1,0 +1,18 @@
+{
+  "models": {
+    "mode": "merge",
+    "providers": {
+      "steyg": {
+        "baseUrl": "https://steyg.one/api/v1",
+        "apiKey": "${STEYG_CODE_API_KEY}",
+        "api": "openai-completions",
+        "models": [{ "id": "MODEL_ID", "name": "MODEL_ID" }]
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": { "primary": "steyg/MODEL_ID" }
+    }
+  }
+}

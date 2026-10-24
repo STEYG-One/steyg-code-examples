@@ -1,0 +1,5 @@
+# Không bao giờ commit API key
+.env
+.env.*
+!.env.example
+*.local.json

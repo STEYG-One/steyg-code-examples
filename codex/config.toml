@@ -1,0 +1,9 @@
+# ~/.codex/config.toml
+model = "MODEL_ID"
+model_provider = "steyg"
+
+[model_providers.steyg]
+name = "STEYG Code"
+base_url = "https://steyg.one/api/v1"
+env_key = "STEYG_CODE_API_KEY"
+wire_api = "responses"
