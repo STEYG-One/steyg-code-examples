@@ -14,3 +14,5 @@ Claude Code nói giao thức Anthropic Messages và đọc cấu hình từ bi�
 4. Trong Claude Code, gõ `/status` để thấy base URL và model đang dùng.
 
 Hướng dẫn đầy đủ, kể cả lỗi hay gặp: [Claude Code dùng API key](https://steyg.one/resources/claude-code-api-key-anthropic-base-url?utm_source=github&utm_medium=repo&utm_campaign=seo-1025).
+
+Tra lỗi theo thông báo hiện trên màn hình: [Lỗi Claude Code thường gặp và cách sửa](https://steyg.one/resources/loi-claude-code-thuong-gap-va-cach-sua?utm_source=github&utm_medium=repo&utm_campaign=seo-1025).

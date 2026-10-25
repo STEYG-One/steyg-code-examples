@@ -9,3 +9,5 @@ Codex CLI khai báo nhà cung cấp riêng trong `~/.codex/config.toml`. Mẫu `
 Lưu ý: id nhà cung cấp không được trùng id có sẵn (`openai`, `ollama`, `lmstudio`), và `wire_api` chỉ còn `responses`.
 
 Hướng dẫn đầy đủ: [Codex CLI với API key riêng](https://steyg.one/resources/codex-cli-api-key-config-toml?utm_source=github&utm_medium=repo&utm_campaign=seo-1025). Hết hạn mức gói ChatGPT: [Codex hết hạn mức](https://steyg.one/resources/codex-het-han-muc-gioi-han-5-gio-va-theo-tuan?utm_source=github&utm_medium=repo&utm_campaign=seo-1025).
+
+Lỗi hay gặp (401, 429, `config.toml` cũ, sandbox chặn lệnh, lỗi mạng): [Lỗi Codex thường gặp và cách sửa](https://steyg.one/resources/loi-codex-thuong-gap-va-cach-sua?utm_source=github&utm_medium=repo&utm_campaign=seo-1025).

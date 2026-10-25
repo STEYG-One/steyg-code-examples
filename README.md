@@ -42,7 +42,9 @@ Model id thay đổi theo danh mục, nên các mẫu để chỗ giữ `MODEL_I
 | Continue | [`continue/`](continue/) | [Cursor, Cline dùng API key riêng](https://steyg.one/resources/cau-hinh-cursor-cline-claude-code-voi-steyg-code?utm_source=github&utm_medium=repo&utm_campaign=seo-1025) |
 | OpenAI SDK, curl | [`sdk/`](sdk/) | [OpenAI SDK đổi base URL](https://steyg.one/resources/openai-sdk-base-url-python-typescript?utm_source=github&utm_medium=repo&utm_campaign=seo-1025) |
 
-Đọc thêm: [tiết kiệm token khi dùng Claude Code và Codex](https://steyg.one/resources/tiet-kiem-token-claude-code-codex?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [1 triệu token là bao nhiêu chữ tiếng Việt](https://steyg.one/resources/cach-tinh-chi-phi-token-ai-coding?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [lỗi Claude Code thường gặp](https://steyg.one/resources/loi-claude-code-thuong-gap-va-cach-sua?utm_source=github&utm_medium=repo&utm_campaign=seo-1025).
+Đọc thêm: [tiết kiệm token khi dùng Claude Code và Codex](https://steyg.one/resources/tiet-kiem-token-claude-code-codex?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [1 triệu token là bao nhiêu chữ tiếng Việt](https://steyg.one/resources/cach-tinh-chi-phi-token-ai-coding?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [lỗi Claude Code thường gặp](https://steyg.one/resources/loi-claude-code-thuong-gap-va-cach-sua?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [lỗi Codex thường gặp](https://steyg.one/resources/loi-codex-thuong-gap-va-cach-sua?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [lỗi API OpenAI, Claude, Gemini thường gặp](https://steyg.one/resources/loi-api-openai-claude-gemini-thuong-gap?utm_source=github&utm_medium=repo&utm_campaign=seo-1025).
+
+Về các model ngoài Claude và GPT trong danh mục: [DeepSeek](https://steyg.one/resources/deepseek-la-gi?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [GLM](https://steyg.one/resources/glm-la-gi?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [Qwen](https://steyg.one/resources/qwen-la-gi?utm_source=github&utm_medium=repo&utm_campaign=seo-1025).
 
 ## Bảo mật
 
