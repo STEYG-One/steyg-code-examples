@@ -22,4 +22,4 @@ Tiền tố `steyg/` giữ cho Cursor không lẫn với model cài sẵn cùng 
 
 Settings → Providers → Custom provider, Provider API là **OpenAI Compatible**, Base URL `https://steyg.one/api/v1`, điền API key; danh sách model lấy tự động từ `/v1/models`.
 
-Hướng dẫn đầy đủ: [Cursor, Cline dùng API key riêng](https://steyg.one/resources/cau-hinh-cursor-cline-claude-code-voi-steyg-code?utm_source=github&utm_medium=repo&utm_campaign=seo-1025).
+Hướng dẫn đầy đủ: [Cursor, Cline dùng API key riêng](https://steyg.one/resources/cau-hinh-cursor-cline-claude-code-voi-steyg-code?utm_source=github&utm_medium=repo&utm_campaign=seo-1025). Cursor chỉ cho dùng key riêng từ gói Premium trở lên (gói Free và Plus không có); thông báo lỗi và cách sửa: [lỗi Cursor khi dùng API key riêng](https://steyg.one/resources/loi-cursor-api-key-thuong-gap?utm_source=github&utm_medium=repo&utm_campaign=seo-1025).

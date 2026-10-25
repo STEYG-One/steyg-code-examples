@@ -1,8 +1,8 @@
 # Mẫu cấu hình coding agent cho STEYG Code
 
-Mẫu cấu hình để chạy **Claude Code, Codex CLI, OpenCode, OpenClaw, Cursor, Cline, Continue** và **OpenAI SDK** bằng một API key [STEYG Code](https://steyg.one/?utm_source=github&utm_medium=repo&utm_campaign=seo-1025). Cùng một key gọi được model Claude, GPT, DeepSeek, GLM, Qwen qua endpoint OpenAI-compatible và Anthropic Messages. Ngân sách trả trước bằng VND, tiêu hết thì request dừng, không bao giờ bị tính quá số tiền đã trả.
+Mẫu cấu hình để chạy **Claude Code, Codex CLI, OpenCode, OpenClaw, Cursor, Cline, Continue, n8n, Open WebUI** và **OpenAI SDK** bằng một API key [STEYG Code](https://steyg.one/?utm_source=github&utm_medium=repo&utm_campaign=seo-1025). Cùng một key gọi được model Claude, GPT, DeepSeek, GLM, Qwen qua endpoint OpenAI-compatible và Anthropic Messages. Ngân sách trả trước bằng VND, tiêu hết thì request dừng, không bao giờ bị tính quá số tiền đã trả.
 
-> **English:** Ready-to-use configuration templates for Claude Code, Codex CLI, OpenCode, OpenClaw, Cursor, Cline, Continue and the OpenAI SDK with one STEYG Code API key (OpenAI-compatible and Anthropic Messages endpoints).
+> **English:** Ready-to-use configuration templates for Claude Code, Codex CLI, OpenCode, OpenClaw, Cursor, Cline, Continue, n8n, Open WebUI and the OpenAI SDK with one STEYG Code API key (OpenAI-compatible and Anthropic Messages endpoints).
 
 ## Thông số chung
 
@@ -41,6 +41,8 @@ Model id thay đổi theo danh mục, nên các mẫu để chỗ giữ `MODEL_I
 | Cursor, Cline, Kilo Code | [`cursor-cline/`](cursor-cline/) | [Cursor, Cline dùng API key riêng](https://steyg.one/resources/cau-hinh-cursor-cline-claude-code-voi-steyg-code?utm_source=github&utm_medium=repo&utm_campaign=seo-1025) |
 | Continue | [`continue/`](continue/) | [Cursor, Cline dùng API key riêng](https://steyg.one/resources/cau-hinh-cursor-cline-claude-code-voi-steyg-code?utm_source=github&utm_medium=repo&utm_campaign=seo-1025) |
 | OpenAI SDK, curl | [`sdk/`](sdk/) | [OpenAI SDK đổi base URL](https://steyg.one/resources/openai-sdk-base-url-python-typescript?utm_source=github&utm_medium=repo&utm_campaign=seo-1025) |
+| n8n | [`n8n/`](n8n/) | [n8n là gì và cách nối API key](https://steyg.one/resources/n8n-la-gi?utm_source=github&utm_medium=repo&utm_campaign=seo-1025) |
+| Open WebUI | [`open-webui/`](open-webui/) | [Ollama, LM Studio, Open WebUI](https://steyg.one/resources/ollama-la-gi?utm_source=github&utm_medium=repo&utm_campaign=seo-1025) |
 
 Đọc thêm: [tiết kiệm token khi dùng Claude Code và Codex](https://steyg.one/resources/tiet-kiem-token-claude-code-codex?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [1 triệu token là bao nhiêu chữ tiếng Việt](https://steyg.one/resources/cach-tinh-chi-phi-token-ai-coding?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [lỗi Claude Code thường gặp](https://steyg.one/resources/loi-claude-code-thuong-gap-va-cach-sua?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [lỗi Codex thường gặp](https://steyg.one/resources/loi-codex-thuong-gap-va-cach-sua?utm_source=github&utm_medium=repo&utm_campaign=seo-1025), [lỗi API OpenAI, Claude, Gemini thường gặp](https://steyg.one/resources/loi-api-openai-claude-gemini-thuong-gap?utm_source=github&utm_medium=repo&utm_campaign=seo-1025).
 
